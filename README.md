@@ -27,25 +27,4 @@ In this project, we are drawing 2D Shapes such as Squares, Circles, Stars etc al
 
 ------------------------------------------------------------------------------------------------
 
-# Demo Video:
 
-- [Project Execution](https://drive.google.com/file/d/1urFQzn6nNO3YRrhtSp-XOe3oiueIc5HC/view)
-- [JAR file Execution](https://docs.google.com/file/d/1Bs7FNGPj59hIH99czTYmG_YiNDBLznzY/view)
-------------------------------------------------------------------------------------------------
-
-# Presentation :
-
-[Presentation](https://docs.google.com/presentation/d/1s8QD53QbcTf1N3zm-UK2Dj8h8mgiu_r6iRF8T7HfV1c/edit#slide=id.g11ff4044692_0_683)
-
-------------------------------------------------------------------------------------------------
-
-# Team : Group 10
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Ishaan23o"><img src="https://avatars.githubusercontent.com/u/96721096?v=4" width="150px;" alt=""/><br /><sub><b> Ishaan Oberoi </b></sub></a><br />IIT2021155</td>
-    <td align="center"><a href="https://github.com/jaimoryani"><img src="https://avatars.githubusercontent.com/u/96694087?v=4" width="150px;" alt=""/><br /><sub><b> Jai Moryani </b></sub></a><br />IIT2021122</td>
-    <td align="center"><a href="https://github.com/Rohankumar555"><img src="https://avatars.githubusercontent.com/u/96721859?v=4" width="150px;" alt=""/><br /><sub><b> Rohan Kumar Behera </b></sub></a><br />IIT2021145</td>
- 
- </tr>
-</table>
